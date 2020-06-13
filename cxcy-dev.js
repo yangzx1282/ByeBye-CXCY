@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ByeBye CXCY
 // @namespace    https://www.xiaosm.cn/
-// @version      1.1-a
+// @version      1.1
 // @description  创新创业就业自助刷课,答题小助手（原创-原作者！！！）
 // @author       Young
 // @match        *://*.hunbys.com/*
@@ -27,7 +27,7 @@
  *   young@xiaosm.cn
  *   扣扣群 949248712
  * 
- * @name BeyBey_CXCY
+ * @name ByeBye_CXCY
  * @description 作者永久保留此程序的版权，转载请勿删除版权和这段注释
  * @author Young
  * @license Apache
